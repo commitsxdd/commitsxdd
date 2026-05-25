@@ -14,9 +14,7 @@
 
 Desarrollador orientado al diseño de soluciones tecnológicas, sistemas empresariales y administración de bases de datos.
 
-Mi enfoque principal está en construir herramientas funcionales y modernas orientadas a optimizar procesos y mejorar la productividad.
-
-### Especialidades
+Especializado en:
 
 ✔ Desarrollo Web
 
@@ -26,7 +24,7 @@ Mi enfoque principal está en construir herramientas funcionales y modernas orie
 
 ✔ Automatización
 
-✔ Soluciones Tecnológicas
+✔ Soluciones Empresariales
 
 ---
 
@@ -42,11 +40,9 @@ Mi enfoque principal está en construir herramientas funcionales y modernas orie
 
 ## HTML
 
-HTML es el lenguaje encargado de construir la estructura de una página web.
+HTML es la base estructural de cualquier página web.
 
-Con HTML se crean formularios, tablas, imágenes, botones y todos los elementos visibles.
-
-### Funciones
+Permite construir formularios, tablas, imágenes, botones y organizar contenido.
 
 ✔ Sitios web
 
@@ -66,17 +62,15 @@ Con HTML se crean formularios, tablas, imágenes, botones y todos los elementos 
 
 ## CSS
 
-CSS permite diseñar y personalizar visualmente un sitio.
+CSS diseña visualmente los sitios web.
 
-Hace posible animaciones, efectos y diseño adaptable.
-
-### Funciones
+Permite animaciones, colores y diseños adaptables.
 
 ✔ Responsive
 
-✔ Diseño
-
 ✔ Animaciones
+
+✔ Diseño
 
 ✔ Estilos
 
@@ -90,19 +84,15 @@ Hace posible animaciones, efectos y diseño adaptable.
 
 ## JavaScript
 
-JavaScript añade lógica e interacción.
-
-Permite crear aplicaciones dinámicas y formularios inteligentes.
-
-### Funciones
+Añade lógica e interacción a aplicaciones.
 
 ✔ APIs
+
+✔ Formularios
 
 ✔ Interactividad
 
 ✔ Backend
-
-✔ Formularios
 
 ---
 
@@ -114,11 +104,7 @@ Permite crear aplicaciones dinámicas y formularios inteligentes.
 
 ## PHP
 
-PHP trabaja del lado del servidor.
-
-Se utiliza para sistemas web y conexión con bases de datos.
-
-### Funciones
+PHP desarrolla sistemas y backend.
 
 ✔ Login
 
@@ -138,15 +124,11 @@ Se utiliza para sistemas web y conexión con bases de datos.
 
 ## MySQL
 
-MySQL administra información y datos.
-
-Muy usado en sistemas empresariales.
-
-### Funciones
-
-✔ Clientes
+Administra bases de datos y reportes.
 
 ✔ Inventarios
+
+✔ Clientes
 
 ✔ Reportes
 
@@ -162,15 +144,13 @@ Muy usado en sistemas empresariales.
 
 ## Python
 
-Python es versátil y utilizado en automatización e IA.
+Lenguaje para automatización e IA.
 
-### Funciones
+✔ Scripts
 
 ✔ IA
 
 ✔ Datos
-
-✔ Scripts
 
 ✔ Automatización
 
@@ -184,9 +164,7 @@ Python es versátil y utilizado en automatización e IA.
 
 ## Java
 
-Java se utiliza ampliamente en aplicaciones empresariales.
-
-### Funciones
+Utilizado en aplicaciones empresariales.
 
 ✔ Android
 
@@ -206,15 +184,13 @@ Java se utiliza ampliamente en aplicaciones empresariales.
 
 ## Git
 
-Git permite controlar versiones y cambios.
-
-### Funciones
+Controla cambios y versiones.
 
 ✔ Historial
 
-✔ Versionado
+✔ Colaboración
 
-✔ Trabajo colaborativo
+✔ Versionado
 
 ---
 
@@ -226,9 +202,7 @@ Git permite controlar versiones y cambios.
 
 ## GitHub
 
-GitHub almacena repositorios y proyectos.
-
-### Funciones
+Plataforma para repositorios.
 
 ✔ Repositorios
 
@@ -244,16 +218,13 @@ GitHub almacena repositorios y proyectos.
 
 <div align="center">
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
 
-<img width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
 
 <br><br>
 
-<img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=tokyo-night"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=tokyo-night"/>
 
 </div>
 
@@ -265,12 +236,12 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&th
 |----------|-------------|
 | Sistema Empresarial | Gestión administrativa |
 | Inventario | Control de productos |
-| SQL Manager | Administración de BD |
+| SQL Manager | Administración BD |
 | Portfolio | Presentación profesional |
 
 ---
 
-# 📋 Request Project
+# 📋 Project Request
 
 <div align="center">
 
