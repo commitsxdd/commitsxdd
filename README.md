@@ -1,36 +1,8 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E293B,100:38BDF8&text=Edwin%20Mendez&fontColor=ffffff&fontSize=55"/>
-
-# 💻 Software Developer | Business Systems | Database Management
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2500&pause=800&color=38BDF8&center=true&width=700&lines=Web+Development;Business+Systems;Database+Management;Professional+Portfolio"/>
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-Desarrollador orientado al diseño de soluciones tecnológicas, sistemas empresariales y administración de bases de datos.
-
-Mi enfoque principal está en construir herramientas funcionales y modernas orientadas a optimizar procesos y mejorar la productividad.
-
-### Áreas de especialización
-
-✔ Desarrollo Web  
-✔ Sistemas Empresariales  
-✔ Administración SQL y MySQL  
-✔ Automatización  
-✔ Soluciones empresariales personalizadas
-
----
-
 # 🚀 Technologies & Knowledge
 
 <div align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 
 <img src="https://skillicons.dev/icons?i=html" width="90">
 
@@ -40,7 +12,7 @@ Mi enfoque principal está en construir herramientas funcionales y modernas orie
 
 HTML (HyperText Markup Language) es la base estructural de cualquier sitio web.
 
-Permite crear formularios, tablas, imágenes, botones y organizar todo el contenido visible.
+Permite crear formularios, tablas, imágenes, botones y organizar el contenido visible.
 
 **Aplicaciones:**
 
@@ -51,7 +23,7 @@ Permite crear formularios, tablas, imágenes, botones y organizar todo el conten
 
 ---
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
 
 <img src="https://skillicons.dev/icons?i=css" width="90">
 
@@ -72,7 +44,7 @@ Se utiliza para colores, animaciones, diseños adaptables y efectos.
 
 ---
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 
 <img src="https://skillicons.dev/icons?i=js" width="90">
 
@@ -91,7 +63,7 @@ Agrega lógica e interacción a páginas y aplicaciones.
 
 ---
 
-<a href="https://www.php.net/">
+<a href="https://www.php.net/" target="_blank">
 
 <img src="https://skillicons.dev/icons?i=php" width="90">
 
@@ -110,7 +82,7 @@ PHP trabaja del lado del servidor y permite construir sistemas completos.
 
 ---
 
-<a href="https://www.mysql.com/">
+<a href="https://www.mysql.com/" target="_blank">
 
 <img src="https://skillicons.dev/icons?i=mysql" width="90">
 
@@ -129,7 +101,7 @@ Sistema gestor relacional para administración de información.
 
 ---
 
-<a href="https://www.python.org/">
+<a href="https://www.python.org/" target="_blank">
 
 <img src="https://skillicons.dev/icons?i=python" width="90">
 
@@ -148,7 +120,7 @@ Lenguaje utilizado para automatización y desarrollo.
 
 ---
 
-<a href="https://www.oracle.com/java/">
+<a href="https://www.oracle.com/java/" target="_blank">
 
 <img src="https://skillicons.dev/icons?i=java" width="90">
 
@@ -167,7 +139,7 @@ Lenguaje ampliamente utilizado en aplicaciones empresariales.
 
 ---
 
-<a href="https://git-scm.com/">
+<a href="https://git-scm.com/" target="_blank">
 
 <img src="https://skillicons.dev/icons?i=git" width="90">
 
@@ -185,7 +157,7 @@ Control de versiones para registrar cambios.
 
 ---
 
-<a href="https://github.com/">
+<a href="https://github.com/" target="_blank">
 
 <img src="https://skillicons.dev/icons?i=github" width="90">
 
@@ -200,67 +172,5 @@ Plataforma para alojar proyectos y repositorios.
 ✔ Repositorios  
 ✔ GitHub Pages  
 ✔ Documentación
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
-
-<img width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
-
-<br><br>
-
-<img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 📂 Featured Projects
-
-| Proyecto | Descripción |
-|----------|-------------|
-| Sistema Empresarial | Gestión administrativa |
-| Inventario | Control de productos |
-| SQL Manager | Administración BD |
-| Portfolio | Sitio profesional |
-
----
-
-# 📋 Project Request
-
-<div align="center">
-
-<a href="./formulario.html">
-
-<img src="https://img.shields.io/badge/FILL_PROJECT_FORM-38BDF8?style=for-the-badge">
-
-</a>
-
-</div>
-
----
-
-# 🌎 Contact
-
-📧 correo@gmail.com
-
-🌐 https://github.com/TUUSUARIO
-
-📍 El Salvador
-
----
-
-<div align="center">
-
-⭐ Professional Repository ⭐
 
 </div>
