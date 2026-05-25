@@ -1,3 +1,31 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E293B,100:38BDF8&text=Edwin%20Mendez&fontColor=ffffff&fontSize=55"/>
+
+# 💻 Software Developer | Business Systems | Database Management
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2500&pause=800&color=38BDF8&center=true&width=700&lines=Web+Development;Business+Systems;Database+Management;Professional+Portfolio"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+Desarrollador orientado al diseño de soluciones tecnológicas, sistemas empresariales y administración de bases de datos.
+
+Mi enfoque principal está en construir herramientas funcionales y modernas orientadas a optimizar procesos y mejorar la productividad.
+
+### Áreas de especialización
+
+✔ Desarrollo Web  
+✔ Sistemas Empresariales  
+✔ Administración SQL y MySQL  
+✔ Automatización  
+✔ Soluciones empresariales personalizadas
+
+---
+
 # 🚀 Technologies & Knowledge
 
 <div align="center">
@@ -8,19 +36,18 @@
 
 </a>
 
-# HTML
+## HTML
 
-HTML (*HyperText Markup Language*) es el lenguaje base utilizado para construir la estructura de una página web.  
-Permite organizar títulos, párrafos, imágenes, tablas, formularios, botones y prácticamente todo el contenido visible.
+HTML (HyperText Markup Language) es la base estructural de cualquier sitio web.
 
-Con HTML se construye el esqueleto principal del sitio y sirve como base para combinar tecnologías como CSS y JavaScript.
+Permite crear formularios, tablas, imágenes, botones y organizar todo el contenido visible.
 
-**Usos principales:**
+**Aplicaciones:**
 
-✔ Creación de páginas web  
-✔ Formularios interactivos  
-✔ Estructuración del contenido  
-✔ Integración multimedia
+✔ Sitios web  
+✔ Formularios  
+✔ Interfaces  
+✔ Estructuras
 
 ---
 
@@ -30,20 +57,18 @@ Con HTML se construye el esqueleto principal del sitio y sirve como base para co
 
 </a>
 
-# CSS
+## CSS
 
-CSS (*Cascading Style Sheets*) se utiliza para diseñar y mejorar visualmente las páginas web.
+CSS permite diseñar visualmente una página.
 
-Permite cambiar colores, tamaños, animaciones, diseños responsivos y crear interfaces modernas.
+Se utiliza para colores, animaciones, diseños adaptables y efectos.
 
-Gracias a CSS se pueden desarrollar sitios elegantes y adaptables a computadoras, tablets y teléfonos.
+**Aplicaciones:**
 
-**Funciones principales:**
-
-✔ Colores y estilos  
+✔ Diseño visual  
+✔ Responsive  
 ✔ Animaciones  
-✔ Diseño adaptable (Responsive)  
-✔ Efectos visuales
+✔ Estilos
 
 ---
 
@@ -53,20 +78,16 @@ Gracias a CSS se pueden desarrollar sitios elegantes y adaptables a computadoras
 
 </a>
 
-# JavaScript
+## JavaScript
 
-JavaScript agrega comportamiento dinámico a las aplicaciones web.
-
-Hace posible crear menús interactivos, validaciones, formularios inteligentes, APIs y aplicaciones completas.
-
-Actualmente es uno de los lenguajes más utilizados del mundo.
+Agrega lógica e interacción a páginas y aplicaciones.
 
 **Aplicaciones:**
 
+✔ Formularios dinámicos  
+✔ APIs  
 ✔ Interactividad  
-✔ Desarrollo Frontend  
-✔ Desarrollo Backend  
-✔ Automatización
+✔ Backend
 
 ---
 
@@ -76,20 +97,16 @@ Actualmente es uno de los lenguajes más utilizados del mundo.
 
 </a>
 
-# PHP
+## PHP
 
-PHP es un lenguaje orientado al desarrollo backend y procesamiento del servidor.
+PHP trabaja del lado del servidor y permite construir sistemas completos.
 
-Se usa ampliamente para crear sistemas empresariales, plataformas web y conexiones con bases de datos.
+**Aplicaciones:**
 
-Muchos sistemas conocidos fueron desarrollados con PHP.
-
-**Usos:**
-
+✔ Login  
+✔ CRUD  
 ✔ Sistemas web  
-✔ Autenticación  
-✔ Conexión SQL  
-✔ Gestión empresarial
+✔ Conexiones SQL
 
 ---
 
@@ -99,20 +116,16 @@ Muchos sistemas conocidos fueron desarrollados con PHP.
 
 </a>
 
-# MySQL
+## MySQL
 
-MySQL es un sistema gestor de bases de datos relacional.
-
-Permite almacenar, organizar y consultar información de manera eficiente.
-
-Es ampliamente utilizado en sistemas administrativos y empresariales.
+Sistema gestor relacional para administración de información.
 
 **Aplicaciones:**
 
-✔ Gestión de clientes  
+✔ Clientes  
 ✔ Inventarios  
 ✔ Reportes  
-✔ Sistemas administrativos
+✔ Consultas
 
 ---
 
@@ -122,18 +135,16 @@ Es ampliamente utilizado en sistemas administrativos y empresariales.
 
 </a>
 
-# Python
+## Python
 
-Python es un lenguaje muy versátil utilizado en automatización, inteligencia artificial y desarrollo de aplicaciones.
+Lenguaje utilizado para automatización y desarrollo.
 
-Su sintaxis sencilla lo hace ideal tanto para principiantes como profesionales.
+**Aplicaciones:**
 
-**Usos:**
-
-✔ Automatización  
-✔ IA  
 ✔ Scripts  
-✔ Ciencia de datos
+✔ IA  
+✔ Datos  
+✔ Automatización
 
 ---
 
@@ -143,18 +154,16 @@ Su sintaxis sencilla lo hace ideal tanto para principiantes como profesionales.
 
 </a>
 
-# Java
+## Java
 
-Java es uno de los lenguajes más utilizados para aplicaciones empresariales.
-
-Se usa en software de escritorio, móviles y sistemas corporativos.
+Lenguaje ampliamente utilizado en aplicaciones empresariales.
 
 **Aplicaciones:**
 
-✔ Aplicaciones empresariales  
-✔ Android  
 ✔ Backend  
-✔ Sistemas grandes
+✔ Android  
+✔ Escritorio  
+✔ Sistemas
 
 ---
 
@@ -164,18 +173,15 @@ Se usa en software de escritorio, móviles y sistemas corporativos.
 
 </a>
 
-# Git
+## Git
 
-Git es un sistema de control de versiones.
+Control de versiones para registrar cambios.
 
-Permite registrar cambios y trabajar en equipo sin perder el historial del proyecto.
+**Aplicaciones:**
 
-**Funciones:**
-
-✔ Versionado  
-✔ Trabajo colaborativo  
 ✔ Historial  
-✔ Gestión de cambios
+✔ Colaboración  
+✔ Versionado
 
 ---
 
@@ -185,17 +191,76 @@ Permite registrar cambios y trabajar en equipo sin perder el historial del proye
 
 </a>
 
-# GitHub
+## GitHub
 
-GitHub es la plataforma donde se almacenan repositorios y proyectos.
+Plataforma para alojar proyectos y repositorios.
 
-Facilita colaboración, documentación y despliegue.
-
-**Características:**
+**Aplicaciones:**
 
 ✔ Repositorios  
 ✔ GitHub Pages  
-✔ Colaboración  
-✔ Portafolios
+✔ Documentación
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+
+<img width="49%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
+
+<br><br>
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 📂 Featured Projects
+
+| Proyecto | Descripción |
+|----------|-------------|
+| Sistema Empresarial | Gestión administrativa |
+| Inventario | Control de productos |
+| SQL Manager | Administración BD |
+| Portfolio | Sitio profesional |
+
+---
+
+# 📋 Project Request
+
+<div align="center">
+
+<a href="./formulario.html">
+
+<img src="https://img.shields.io/badge/FILL_PROJECT_FORM-38BDF8?style=for-the-badge">
+
+</a>
+
+</div>
+
+---
+
+# 🌎 Contact
+
+📧 correo@gmail.com
+
+🌐 https://github.com/TUUSUARIO
+
+📍 El Salvador
+
+---
+
+<div align="center">
+
+⭐ Professional Repository ⭐
 
 </div>
