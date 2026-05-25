@@ -1,3 +1,35 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E293B,100:38BDF8&text=Edwin%20Mendez&fontColor=ffffff&fontSize=55"/>
+
+# 💻 Software Developer | Business Systems | Database Management
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2500&pause=800&color=38BDF8&center=true&width=700&lines=Web+Development;Business+Systems;Database+Management;Professional+Portfolio"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+Desarrollador orientado al diseño de soluciones tecnológicas, sistemas empresariales y administración de bases de datos.
+
+Mi enfoque principal está en construir herramientas funcionales y modernas orientadas a optimizar procesos y mejorar la productividad.
+
+### Especialidades
+
+✔ Desarrollo Web
+
+✔ Sistemas Empresariales
+
+✔ SQL y MySQL
+
+✔ Automatización
+
+✔ Soluciones Tecnológicas
+
+---
+
 # 🚀 Technologies & Knowledge
 
 <div align="center">
@@ -10,15 +42,18 @@
 
 ## HTML
 
-HTML (HyperText Markup Language) es la base estructural de cualquier sitio web.
+HTML es el lenguaje encargado de construir la estructura de una página web.
 
-Permite crear formularios, tablas, imágenes, botones y organizar el contenido visible.
+Con HTML se crean formularios, tablas, imágenes, botones y todos los elementos visibles.
 
-**Aplicaciones:**
+### Funciones
 
-✔ Sitios web  
-✔ Formularios  
-✔ Interfaces  
+✔ Sitios web
+
+✔ Formularios
+
+✔ Interfaces
+
 ✔ Estructuras
 
 ---
@@ -31,15 +66,18 @@ Permite crear formularios, tablas, imágenes, botones y organizar el contenido v
 
 ## CSS
 
-CSS permite diseñar visualmente una página.
+CSS permite diseñar y personalizar visualmente un sitio.
 
-Se utiliza para colores, animaciones, diseños adaptables y efectos.
+Hace posible animaciones, efectos y diseño adaptable.
 
-**Aplicaciones:**
+### Funciones
 
-✔ Diseño visual  
-✔ Responsive  
-✔ Animaciones  
+✔ Responsive
+
+✔ Diseño
+
+✔ Animaciones
+
 ✔ Estilos
 
 ---
@@ -52,14 +90,19 @@ Se utiliza para colores, animaciones, diseños adaptables y efectos.
 
 ## JavaScript
 
-Agrega lógica e interacción a páginas y aplicaciones.
+JavaScript añade lógica e interacción.
 
-**Aplicaciones:**
+Permite crear aplicaciones dinámicas y formularios inteligentes.
 
-✔ Formularios dinámicos  
-✔ APIs  
-✔ Interactividad  
+### Funciones
+
+✔ APIs
+
+✔ Interactividad
+
 ✔ Backend
+
+✔ Formularios
 
 ---
 
@@ -71,14 +114,19 @@ Agrega lógica e interacción a páginas y aplicaciones.
 
 ## PHP
 
-PHP trabaja del lado del servidor y permite construir sistemas completos.
+PHP trabaja del lado del servidor.
 
-**Aplicaciones:**
+Se utiliza para sistemas web y conexión con bases de datos.
 
-✔ Login  
-✔ CRUD  
-✔ Sistemas web  
-✔ Conexiones SQL
+### Funciones
+
+✔ Login
+
+✔ CRUD
+
+✔ SQL
+
+✔ Sistemas
 
 ---
 
@@ -90,13 +138,18 @@ PHP trabaja del lado del servidor y permite construir sistemas completos.
 
 ## MySQL
 
-Sistema gestor relacional para administración de información.
+MySQL administra información y datos.
 
-**Aplicaciones:**
+Muy usado en sistemas empresariales.
 
-✔ Clientes  
-✔ Inventarios  
-✔ Reportes  
+### Funciones
+
+✔ Clientes
+
+✔ Inventarios
+
+✔ Reportes
+
 ✔ Consultas
 
 ---
@@ -109,13 +162,16 @@ Sistema gestor relacional para administración de información.
 
 ## Python
 
-Lenguaje utilizado para automatización y desarrollo.
+Python es versátil y utilizado en automatización e IA.
 
-**Aplicaciones:**
+### Funciones
 
-✔ Scripts  
-✔ IA  
-✔ Datos  
+✔ IA
+
+✔ Datos
+
+✔ Scripts
+
 ✔ Automatización
 
 ---
@@ -128,13 +184,16 @@ Lenguaje utilizado para automatización y desarrollo.
 
 ## Java
 
-Lenguaje ampliamente utilizado en aplicaciones empresariales.
+Java se utiliza ampliamente en aplicaciones empresariales.
 
-**Aplicaciones:**
+### Funciones
 
-✔ Backend  
-✔ Android  
-✔ Escritorio  
+✔ Android
+
+✔ Backend
+
+✔ Escritorio
+
 ✔ Sistemas
 
 ---
@@ -147,13 +206,15 @@ Lenguaje ampliamente utilizado en aplicaciones empresariales.
 
 ## Git
 
-Control de versiones para registrar cambios.
+Git permite controlar versiones y cambios.
 
-**Aplicaciones:**
+### Funciones
 
-✔ Historial  
-✔ Colaboración  
+✔ Historial
+
 ✔ Versionado
+
+✔ Trabajo colaborativo
 
 ---
 
@@ -165,12 +226,90 @@ Control de versiones para registrar cambios.
 
 ## GitHub
 
-Plataforma para alojar proyectos y repositorios.
+GitHub almacena repositorios y proyectos.
 
-**Aplicaciones:**
+### Funciones
 
-✔ Repositorios  
-✔ GitHub Pages  
+✔ Repositorios
+
+✔ GitHub Pages
+
 ✔ Documentación
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+
+<img width="49%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
+
+<br><br>
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 📂 Featured Projects
+
+| Proyecto | Descripción |
+|----------|-------------|
+| Sistema Empresarial | Gestión administrativa |
+| Inventario | Control de productos |
+| SQL Manager | Administración de BD |
+| Portfolio | Presentación profesional |
+
+---
+
+# 📋 Request Project
+
+<div align="center">
+
+<a href="./formulario.html" target="_blank">
+
+<img src="https://img.shields.io/badge/FILL_PROJECT_FORM-38BDF8?style=for-the-badge">
+
+</a>
+
+</div>
+
+---
+
+# 🌎 Contact
+
+<div align="center">
+
+<a href="mailto:correo@gmail.com" target="_blank">
+
+📧 Email
+
+</a>
+
+|
+
+<a href="https://github.com/TUUSUARIO" target="_blank">
+
+🌐 GitHub
+
+</a>
+
+</div>
+
+📍 El Salvador
+
+---
+
+<div align="center">
+
+⭐ Professional Repository ⭐
 
 </div>
