@@ -1,267 +1,168 @@
-<!DOCTYPE html>
-<html lang="es">
+<div align="center">
 
-<head>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:1E293B,100:38BDF8&text=EDWIN%20MENDEZ&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40"/>
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=900&color=38BDF8&center=true&width=700&lines=Software+Developer;Business+Systems;Database+Designer;Building+Professional+Solutions"/>
 
-<title>Client Project Request</title>
+<br><br>
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
-
-<style>
-
-*{
-margin:0;
-padding:0;
-box-sizing:border-box;
-font-family:Poppins;
-}
-
-body{
-
-background:
-linear-gradient(
-135deg,
-#020617,
-#0f172a,
-#1e293b
-);
-
-min-height:100vh;
-
-display:flex;
-
-justify-content:center;
-
-align-items:center;
-
-padding:40px;
-
-color:white;
-
-}
-
-.container{
-
-width:100%;
-max-width:950px;
-
-background:
-rgba(
-15,
-23,
-42,
-0.9
-);
-
-padding:50px;
-
-border-radius:30px;
-
-backdrop-filter:blur(18px);
-
-box-shadow:
-0 0 50px rgba(
-56,
-189,
-248,
-0.25
-);
-
-}
-
-h1{
-
-font-size:42px;
-
-text-align:center;
-
-color:#38bdf8;
-
-margin-bottom:10px;
-
-}
-
-p{
-
-text-align:center;
-
-margin-bottom:40px;
-
-}
-
-form{
-
-display:grid;
-
-grid-template-columns:
-1fr 1fr;
-
-gap:20px;
-
-}
-
-.full{
-
-grid-column:span 2;
-
-}
-
-input,
-textarea,
-select{
-
-padding:16px;
-
-border:none;
-
-outline:none;
-
-border-radius:15px;
-
-background:#1e293b;
-
-color:white;
-
-}
-
-textarea{
-
-height:160px;
-
-resize:none;
-
-}
-
-button{
-
-grid-column:span 2;
-
-padding:18px;
-
-background:#38bdf8;
-
-border:none;
-
-border-radius:15px;
-
-font-size:18px;
-
-font-weight:700;
-
-cursor:pointer;
-
-}
-
-button:hover{
-
-transform:translateY(-4px);
-
-}
-
-</style>
-
-</head>
-
-<body>
-
-<div class="container">
-
-<h1>
-
-📋 Project Request Form
-
-</h1>
-
-<p>
-
-Complete the form to request a project.
-
-</p>
-
-<form id="clientForm">
-
-<input
-type="text"
-placeholder="Full Name"
-required>
-
-<input
-type="email"
-placeholder="Email"
-required>
-
-<input
-type="text"
-placeholder="Company">
-
-<select>
-
-<option>Website</option>
-
-<option>Business System</option>
-
-<option>Database</option>
-
-<option>Portfolio</option>
-
-<option>Application</option>
-
-</select>
-
-<input
-class="full"
-type="number"
-placeholder="Estimated Budget">
-
-<input
-class="full"
-type="date">
-
-<textarea
-class="full"
-placeholder="Describe your project">
-</textarea>
-
-<button>
-
-Send Request
-
-</button>
-
-</form>
+<img src="https://img.shields.io/badge/Developer-38BDF8?style=for-the-badge">
+<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge">
+<img src="https://img.shields.io/badge/Web-1E293B?style=for-the-badge">
 
 </div>
 
-<script>
+---
 
-document
-.getElementById(
-"clientForm"
-)
+# 🌌 About Me
 
-.addEventListener(
+```yaml
+Name: Edwin Mendez
 
-"submit",
+Role: Software Developer
 
-function(e){
+Focus:
 
-e.preventDefault();
+  - Business Systems
 
-alert(
-"Request sent successfully"
-);
+  - Web Development
 
-}
+  - Database Management
 
-);
+  - Automation
 
-</script>
+Country: El Salvador
+```
 
-</body>
+---
 
-</html>
+# ⚡ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,python,git,github,vscode,figma"/>
+
+</div>
+
+---
+
+# 📈 Analytics
+
+<div align="center">
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&theme=tokyonight&show_icons=true&hide_border=true"/>
+
+<img width="49%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🏢 Business System
+
+Gestión empresarial moderna y automatización.
+
+</td>
+
+<td width="50%">
+
+### 🗄 SQL Management
+
+Diseño y optimización de bases de datos.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌐 Portfolio
+
+Presentación profesional moderna.
+
+</td>
+
+<td width="50%">
+
+### 📦 Inventory
+
+Control administrativo avanzado.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌍 Connect
+
+<div align="center">
+
+<a href="https://github.com/TUUSUARIO">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+
+</a>
+
+<a href="./formulario.html">
+
+<img src="https://img.shields.io/badge/CLIENT_FORM-38BDF8?style=for-the-badge">
+
+</a>
+
+<a href="mailto:correo@gmail.com">
+
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail">
+
+</a>
+
+</div>
+
+---
+
+# ✨ Client Services
+
+✔ Desarrollo Web  
+✔ Sistemas Empresariales  
+✔ Bases de Datos  
+✔ Automatización  
+✔ Portafolios Profesionales
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F172A,50:1E293B,100:38BDF8"/>
+
+</div>
