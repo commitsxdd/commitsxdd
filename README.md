@@ -274,7 +274,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&th
 
 <div align="center">
 
-<a href="./formulario.html" target="_blank">
+<a href="https://TUUSUARIO.github.io/NOMBRE-REPO/formulario.html" target="_blank">
 
 <img src="https://img.shields.io/badge/FILL_PROJECT_FORM-38BDF8?style=for-the-badge">
 
