@@ -1,286 +1,56 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E293B,100:38BDF8&text=Edwin%20Mendez&fontColor=ffffff&fontSize=55"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Edwin%20Mendez&fontSize=48&fontColor=ffffff&animation=fadeIn&color=0:0F2027,50:203A43,100:2C5364"/>
 
-# 💻 Software Developer | Business Systems | Database Management
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2500&pause=800&color=38BDF8&center=true&width=700&lines=Web+Development;Business+Systems;Database+Management;Professional+Portfolio"/>
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-Desarrollador orientado al diseño de soluciones tecnológicas, sistemas empresariales y administración de bases de datos.
-
-Especializado en:
-
-✔ Desarrollo Web
-
-✔ Sistemas Empresariales
-
-✔ SQL y MySQL
-
-✔ Automatización
-
-✔ Soluciones Empresariales
-
----
-
-# 🚀 Technologies & Knowledge
-
-<div align="center">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-
-<img src="https://skillicons.dev/icons?i=html" width="90">
-
-</a>
-
-## HTML
-
-HTML es la base estructural de cualquier página web.
-
-Permite construir formularios, tablas, imágenes, botones y organizar contenido.
-
-✔ Sitios web
-
-✔ Formularios
-
-✔ Interfaces
-
-✔ Estructuras
-
----
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-
-<img src="https://skillicons.dev/icons?i=css" width="90">
-
-</a>
-
-## CSS
-
-CSS diseña visualmente los sitios web.
-
-Permite animaciones, colores y diseños adaptables.
-
-✔ Responsive
-
-✔ Animaciones
-
-✔ Diseño
-
-✔ Estilos
-
----
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-
-<img src="https://skillicons.dev/icons?i=js" width="90">
-
-</a>
-
-## JavaScript
-
-Añade lógica e interacción a aplicaciones.
-
-✔ APIs
-
-✔ Formularios
-
-✔ Interactividad
-
-✔ Backend
-
----
-
-<a href="https://www.php.net/" target="_blank">
-
-<img src="https://skillicons.dev/icons?i=php" width="90">
-
-</a>
-
-## PHP
-
-PHP desarrolla sistemas y backend.
-
-✔ Login
-
-✔ CRUD
-
-✔ SQL
-
-✔ Sistemas
-
----
-
-<a href="https://www.mysql.com/" target="_blank">
-
-<img src="https://skillicons.dev/icons?i=mysql" width="90">
-
-</a>
-
-## MySQL
-
-Administra bases de datos y reportes.
-
-✔ Inventarios
-
-✔ Clientes
-
-✔ Reportes
-
-✔ Consultas
-
----
-
-<a href="https://www.python.org/" target="_blank">
-
-<img src="https://skillicons.dev/icons?i=python" width="90">
-
-</a>
-
-## Python
-
-Lenguaje para automatización e IA.
-
-✔ Scripts
-
-✔ IA
-
-✔ Datos
-
-✔ Automatización
-
----
-
-<a href="https://www.oracle.com/java/" target="_blank">
-
-<img src="https://skillicons.dev/icons?i=java" width="90">
-
-</a>
-
-## Java
-
-Utilizado en aplicaciones empresariales.
-
-✔ Android
-
-✔ Backend
-
-✔ Escritorio
-
-✔ Sistemas
-
----
-
-<a href="https://git-scm.com/" target="_blank">
-
-<img src="https://skillicons.dev/icons?i=git" width="90">
-
-</a>
-
-## Git
-
-Controla cambios y versiones.
-
-✔ Historial
-
-✔ Colaboración
-
-✔ Versionado
-
----
-
-<a href="https://github.com/" target="_blank">
-
-<img src="https://skillicons.dev/icons?i=github" width="90">
-
-</a>
-
-## GitHub
-
-Plataforma para repositorios.
-
-✔ Repositorios
-
-✔ GitHub Pages
-
-✔ Documentación
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Estudiante+de+Desarrollo+de+Software;Diseño+de+Sistemas+UML;Creando+proyectos+y+aprendiendo;Repositorio+Academico+MODULO+2.1" />
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=tokyo-night"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="330">
 
 </div>
 
 ---
 
-# 📂 Featured Projects
-
-| Proyecto | Descripción |
-|----------|-------------|
-| Sistema Empresarial | Gestión administrativa |
-| Inventario | Control de productos |
-| SQL Manager | Administración BD |
-| Portfolio | Presentación profesional |
-
----
-
-# 📋 Project Request
+# 💻 Repositorio Académico | MODULO 2.1
 
 <div align="center">
 
-<a href="https://TUUSUARIO.github.io/NOMBRE-REPO/formulario.html" target="_blank">
+### 📚 Diseño de Sistemas Informáticos utilizando UML
 
-<img src="https://img.shields.io/badge/FILL_PROJECT_FORM-38BDF8?style=for-the-badge">
-
-</a>
+<img src="https://img.shields.io/badge/Estado-En%20Desarrollo-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UML-Aprendiendo-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-Activo-00C853?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌎 Contact
+## 👨‍💻 Sobre mí
 
-<div align="center">
+Hola, soy **Edwin Mendez**.
 
-<a href="mailto:correo@gmail.com" target="_blank">
+Actualmente estoy desarrollando proyectos académicos relacionados con:
 
-📧 Email
+✔ Diseño y modelado UML  
+✔ Desarrollo de software  
+✔ Documentación técnica  
+✔ Diagramación de sistemas  
+✔ Uso de Git y GitHub  
 
-</a>
-
-|
-
-<a href="https://github.com/TUUSUARIO" target="_blank">
-
-🌐 GitHub
-
-</a>
-
-</div>
-
-📍 El Salvador
+Este espacio funciona como mi repositorio de aprendizaje y crecimiento profesional.
 
 ---
 
-<div align="center">
+## 📂 Contenido del repositorio
 
-⭐ Professional Repository ⭐
-
-</div>
+```text
+📁 MODULO-2.1
+│── 📘 Practicas
+│── 📊 Diagramas UML
+│── 🧩 Casos de uso
+│── 🏗 Diseño de sistemas
+│── 💻 Proyectos
+│── 🚀 Avances
