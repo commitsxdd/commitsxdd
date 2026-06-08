@@ -158,6 +158,39 @@ Desarrollar soluciones tecnológicas mediante análisis, modelado y diseño de s
 </div>
 
 ---
+---
+
+# 📚 DIGITAL LIBRARY
+
+<div align="center">
+
+<a href="https://commitsxdd.github.io/biblioteca-modulo-2-1/" target="_blank">
+
+<img src="https://img.shields.io/badge/📚_OPEN_DIGITAL_LIBRARY-5B4BDB?style=for-the-badge"/>
+
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/RESOURCES-22-8174EF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DOCUMENTS-11-4386E8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PRESENTATIONS-11-F0823F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/UML-DIAGRAMS-31A873?style=for-the-badge"/>
+
+<br><br>
+
+<b>📖 Biblioteca académica del Módulo 2.1</b>
+
+<br>
+
+Documentos • Presentaciones • Diagramas UML • Recursos de aprendizaje
+
+</div>
+
+---
 
 # 🤖 AI COMMAND CENTER
 
